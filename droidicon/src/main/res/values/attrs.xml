@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DroidIconView">
+        <attr name="body_color" format="color" />
+        <attr name="eyes_color" format="color" />
+        <attr name="stroke_color" format="color" />
+        <attr name="auto_start_animation" format="boolean" />
+        <!-- left hand -->
+        <attr name="left_hand_animation_duration" format="integer" />
+        <attr name="left_hand_repeat_count" format="integer" />
+        <attr name="left_hand_repeat_mode" format="integer" />
+        <attr name="left_hand_angle_from" format="integer" />
+        <attr name="left_hand_angle_to" format="integer" />
+        <!-- right hand -->
+        <attr name="right_hand_animation_duration" format="integer" />
+        <attr name="right_hand_repeat_count" format="integer" />
+        <attr name="right_hand_repeat_mode" format="integer" />
+        <attr name="right_hand_angle_from" format="integer" />
+        <attr name="right_hand_angle_to" format="integer" />
+    </declare-styleable>
+</resources>
